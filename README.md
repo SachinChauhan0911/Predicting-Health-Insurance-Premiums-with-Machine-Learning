@@ -52,6 +52,9 @@ Evaluated four machine learning models:
 - Compared model performance using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R²).
 - Random Forest Regressor had the best performance, followed closely by Gradient Boosting.
 
+### Comparison of Feature Importances for Various Models:
+![new_image](https://github.com/SachinChauhan0911/Predicting-Health-Insurance-Premiums-with-Machine-Learning/blob/main/images/Feature%20importances.png)
+
 ## Results
 ### Hyperparameter Tuning Results of Random Forest Regressor:
 The optimal parameters selected by GridSearchCV are:
